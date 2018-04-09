@@ -14,7 +14,7 @@ This command has the following options :
 
  -r -> recursive, works upon all the files in subdirectories of given directory and so on
  
- -f -> procecsses only the files and not the directories
+ -f -> processes only the files and not the directories
  
  -d -> processes only the directories and not the files
 
